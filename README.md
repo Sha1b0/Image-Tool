@@ -1,4 +1,3 @@
-Here's a solid GitHub description for your image software built with Python's PIL module:  
 
 ---
 
